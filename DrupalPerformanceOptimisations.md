@@ -1,7 +1,8 @@
 # End-to-End Drupal Performance Optimisations
-## [Dennis Digital DropIn, London] (http://www.meetup.com/DennisDigitalDropIn/events/223812922/)
-### 10 August 2015
 
+[Dennis Digital DropIn, London] (http://www.meetup.com/DennisDigitalDropIn/events/223812922/)
+
+10 August 2015
 
 ## Speakers
 Konstantin Kamskov
