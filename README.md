@@ -1,4 +1,4 @@
-# My Take in Talks
+# My Take on Talks
 ## What is this repo about?
 
 This repo contains my notes of tech talks I attend. I focus mainly on Drupal meetings in London.
