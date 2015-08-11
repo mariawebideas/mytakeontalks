@@ -5,11 +5,9 @@
 10 August 2015
 
 ## Speakers
-Konstantin Kamskov
-
-David Grayston
-
-Chris Kinch
+* Konstantin Kamskov
+* David Grayston
+* Chris Kinch
 
 ## Block Catching
 * Use [New Relic](https://newrelic.com) for performance monitoring
