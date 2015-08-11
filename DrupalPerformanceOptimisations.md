@@ -9,10 +9,11 @@
 
 ## Block Catching
 * Use [New Relic](https://newrelic.com) for performance monitoring
-* Use the **Performance** page on Drupal to set
-  * Instead of using Catches page....use Varnish - https://www.varnish-cache.org/
-  * .... expiration at 1 minute
-  * .... expiration at 1 hour
+* Use the **Performance** page on Drupal (admin/config/development/performance) for the following CATCHING settings:
+  * Instead of using **Cache pages for anonymous users** use Varnish - https://www.varnish-cache.org/
+  * Tick **Cache blocks**
+  * Set **Minimum cache lifetime** to 1 minute
+  * Set **Expiration of cached pages** to 1 hour
 * Use [Block Cache Audit](https://www.drupal.org/sandbox/PeterC/1836684) sandbox module
 * Use [Block Mass Cache](https://www.drupal.org/project/blocks_mass_cache) module. **Important**: In Drupal, blocks are not cached if you are logged in as admin (user id 1), so make sure you test blocks caching with an user different than user 1 or as anonymous.
 * Use Drupal API [constant DRUPAL_CACHE_CUSTOM](https://www.drupal.org/project/blocks_mass_cache) for more fine grained catching when needed
