@@ -14,4 +14,4 @@ GitHub gives me also the opportunity to share these notes with others.
 
 ## Who is this repo for?
 
-It will be interesting mainly to site builders that use Drupal as their content management system.  
+Mainly to site builders that use Drupal as their content management system.  
