@@ -5,11 +5,13 @@
 
 ## Speakers
 Konstantin Kamskov
+
 David Grayston
+
 Chris Kinch
 
 ## Block Catching
-* Use [New Relic] for performance monitoring (https://newrelic.com)
+* Use [New Relic](https://newrelic.com) for performance monitoring (https://newrelic.com)
 * Use the **Performance** page on Drupal to set
   * Instead of using Catches page....use Varnish - https://www.varnish-cache.org/
   * .... expiration at 1 minute
