@@ -38,10 +38,10 @@
 
 ## Mobile SEO
 * Google bot likes mobile sites that:
-** Avoid software that is not common on mobile devices, like Flash
-** Use text that is readable without zooming
-** Size content to the screen so users don't have to scroll horizontally or zoom
-** Place links far enough apart so that the correct one can be easily tapped
+  * Avoid software that is not common on mobile devices, like Flash
+  * Use text that is readable without zooming
+  * Size content to the screen so users don't have to scroll horizontally or zoom
+  * Place links far enough apart so that the correct one can be easily tapped
 
 ## What to do
 * Register with Google My Business and claim your business listing
@@ -84,12 +84,12 @@
 * [Google Analytics] (https://www.google.com/analytics/)
 * [Google Trends] (google.com/trends)
 * [Google My Business] (https://www.google.com/business)
-** Categorisation
-*** Storefront:restaurant, retails store, hotel, etc
-*** Service Area: plumber, pizza delivery, taxi service, etc
-*** Brand: product, sports team, music band, couse, etc
+  * Categorisation
+    * Storefront:restaurant, retails store, hotel, etc
+    * Service Area: plumber, pizza delivery, taxi service, etc
+    * Brand: product, sports team, music band, couse, etc
 * [Google Webmasters] (https://www.google.com/intl/en/webmasters/)
 
-## Slides available at:
+## Slides available
 * [Tell your story online] (http://goo.gl/33j2Wh)
 * [Get new customers online] (http://goo.gl/uK8RkA)
