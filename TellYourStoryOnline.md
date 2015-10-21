@@ -89,6 +89,7 @@
     * Service Area: plumber, pizza delivery, taxi service, etc
     * Brand: product, sports team, music band, couse, etc
 * [Google Webmasters] (https://www.google.com/intl/en/webmasters/)
+* [Google SEO Starter Guide] (http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf)
 
 ## Slides available
 * [Tell your story online] (http://goo.gl/33j2Wh)
