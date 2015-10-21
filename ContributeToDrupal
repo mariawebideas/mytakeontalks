@@ -1,87 +1,19 @@
-End-to-End Drupal Performance Optimisations
+# Contribute to Drupal
 
-Dennis Digital DropIn, London - 10 August 2015
-Speakers
+[Drupal Show and Tell, London] (http://www.meetup.com/drupal-show-and-tell/events/225670498/) - 15 October 2015
 
-    Konstantin Kamskov
-    David Grayston
-    Chris Kinch
+## Speaker
+* Gorka Guridi - gorka.guridi@gmail.com
 
-Block Catching
+## Tools
+* [Dreditor] (https://chrome.google.com/webstore/detail/dreditor/dhdpoembhlojpmehepeadblhglloobao?hl=en-US) - a Google Chrome extension
+* [Simplytest.me] (https://simplytest.me/) - test the functionality of modules, themes and distributions in a sandbox before downloading them
 
-    Use New Relic for performance monitoring
-    Use the Performance page on Drupal (admin/config/development/performance) for the following CATCHING settings:
-        Instead of using Cache pages for anonymous users use Varnish - https://www.varnish-cache.org/
-        Tick Cache blocks
-        Set Minimum cache lifetime to 1 minute
-        Set Expiration of cached pages to 1 hour
-    Use Block Cache Audit sandbox module
-    Use Block Mass Cache module. Important: In Drupal, blocks are not cached if you are logged in as admin (user id 1), so make sure you test blocks caching with an user different than user 1 or as anonymous.
-    Use Drupal API constant DRUPAL_CACHE_CUSTOM for more fine grained catching when needed
+## Examples of tags to filter issues
+* Novice
+* Frontend
 
-Pagers
+## Documentation
+* [Getting involved] (https://www.drupal.org/getting-involved)
+* [Novice] (https://www.drupal.org/novice)
 
-    Avoid full pagers if possible
-    Use Views Litepager module. This module does not have all the features of Drupal full pager but you might find that your customers might be ok with just using the next and previous links which are provided with this module.
-
-Path Catching
-
-    Use Path Cache module if you have replaced your catching backend with memcache
-
-Forms
-
-    Use Varnish
-    If you use Varnish avoid using form API AJAX for anonymous users. Instead implement a custom solution using hook_menu and javascript
-    Offload user generated content to third party providers such as Disqus. Then use the APIs to pull content back to Drupal.
-
-MySQL
-
-    Select only necessary fields
-    Remove unnecessary sorting
-    Index custom tables
-
-Landing Pages
-
-    Remove unnecessary use of pagers
-    Limit to a subset of data if soring e.g. past year
-    Use a custom module to select page content in a single query that then is broken down on different blocks for display
-    If you are using Varnish provide Save and purge buttons to editors
-
-The Need for Speed - Front end Performance
-
-Slides available
-Fundamentals
-
-    Compress your images, e.g. Photoshop
-    Avoid javascript that manipulates the DOM too heavily
-    Avoid bloated libraries, this does not include jQuery
-
-Know your tools
-
-    Use the Advanced Aggregation module
-    Use Grunt or Gulp as task runners
-    Use Google Page Speed Insights or ySlow to find current performance
-    Use the good old network inspector
-
-Less then Obvious
-
-    Use data URIs for example to load things like the logo
-    Use font and/or svgs for icons, e.g. Fontello
-    Use WOFF2 as your font format
-
-Perceived Speed
-
-    Optimise images more:
-        Interlaced or progressive images
-        Use the Picture and Breakpoints modules
-    Render your resources
-        Use a script loader like Require.js
-    Critical CSS a.k.a. Prioritising Visible Content
-        Use CSS Delivery module and
-        Use Jacket SASS mixins
-
-Other
-
-    Check out the Robots.txt file - might be blocking pages that Google Analytics needs to access to provide meaningful statistics
-    Use lazy loading (no specific modules mentioned) particularly when you have image galleries
-    Check whether Google considers your website to be mobile friendly
