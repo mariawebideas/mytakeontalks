@@ -79,7 +79,7 @@
 ## Education resources
 * [Creator Academy] (https://creatoracademy.withgoogle.com/page/education)
 
-# Google Tools
+## Google Tools
 * Check that your website is [mobile friendly] (https://www.google.com/webmasters/tools/mobile-friendly/)
 * [Google Analytics] (https://www.google.com/analytics/)
 * [Google Trends] (google.com/trends)
@@ -93,15 +93,3 @@
 ## Slides available at:
 * [Tell your story online] (http://goo.gl/33j2Wh)
 * [Get new customers online] (http://goo.gl/uK8RkA)
-
-## Tools
-* [Dreditor] (https://chrome.google.com/webstore/detail/dreditor/dhdpoembhlojpmehepeadblhglloobao?hl=en-US) - a Google Chrome extension
-* [Simplytest.me] (https://simplytest.me/) - test the functionality of modules, themes and distributions in a sandbox before downloading them
-
-## Examples of tags to filter issues
-* Novice
-* Frontend
-
-## Documentation
-* [Getting involved] (https://www.drupal.org/getting-involved)
-* [Novice] (https://www.drupal.org/novice)
