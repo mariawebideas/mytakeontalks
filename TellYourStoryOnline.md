@@ -74,7 +74,7 @@
 
 ## The power of YouTube - create rich, engaging content
 * Be a Thought Leader: Create educational videos that offer genuine value to users, no need to sell
-* To create videos check out (Wooshii) [https://wooshii.com/]
+* To create videos check out [Wooshii] (https://wooshii.com/)
 * Create shareable content: Viewers are more likely to share a video that elicits a strong emotional response
 
 ## Education resources
