@@ -3,7 +3,7 @@
 [The Digital Garage, Google] (https://digitalgarage.withgoogle.com/) - 9 October 2015
 
 ## Top tips to building a successful site
-* Identify a website’s purpose / goal
+* Identify a website’s purpose / goal: ONLY WE DO/ARE/OFFER....
 * Make the content simple and easy to digest 
 * Break up long paragraphs with bullet points
 * Strong calls to action, ‘Buy Now’ - help them convert
