@@ -34,7 +34,10 @@
 * Wait for 4-6 weeks to review the results after optimising a page.
 
 ## Google sandbox
-* for new websites google might show you up the organic rank very quickly 
+* When you pubish a new website Google might show it up on the organic search straight away. Then you might notice that it drops down the listed pages. Continue optimising it and you will gain a better position with time.
+
+## Page Titles
+* Make sure your page Titles contain the Keywords you have chosen for each web page
 
 ## General Tips
 * Check out [Google AdWords for Charities] (https://www.google.com.hk/intl/en/grants/)
