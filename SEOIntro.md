@@ -6,27 +6,19 @@
 ## Speaker
 * Mike Loomey
 
-## Researching your keywords
+## Researching your Keywords
 * Use [Google Trends] (https://www.google.es/trends/) to investigate whether people are interested in the product you intent to sell or the services you are going to offer.
+* Start by optimising maybe three pages on your site targeting specific searches by potential customers.  E.g. Cupcake with rum cooking tips; people looking for this might explore your website further and buy your cupcakes. Do not optimise your home page as that page is usually very general.
+* Be aware that people usually do searches with the following components: a qualifying word, a trade or product and an area; e.g. Professional plumber Ilford.
+* Find a niche phrase keyword; ask your friends to brainstorm with you to create a big list.
 
 
 
 ## General Tips
 * Check out [Google AdWords for Charities] (https://www.google.com.hk/intl/en/grants/)
-
-
-
-Check out General Assembly courses as they are very good
-
-Use a browser with no cookies or empty your cache before you do a search in google so it does not remember your history and offers you new search results
-
-Start by optimising maybe three pages on your site targeting specific searches by potential customers.  E.g. Cupcake with rum cooking tips; people looking for this might explore your website further and buy your product. Mdo not optimise your home page as that page is very general.
-
-Be aware that people usually do searches with a qualifying word, a trade or product and an area; e.g. Professional plumber Ilford
-
-You need to find a niche phrase keyword; ask your friends to brainstorm with you.
-
-Before you buy a domain investigate if someone has owned in the past.  Use the website openlinkprofiler.org, make sure that not doggy websites link to your domain.
+* Check out [General Assembly] (https://generalassemb.ly/) as their courses are very good
+* Use a browser with no cookies or empty your cache before you do a search in Google so it does not remember your history and offers you new search results
+* Before you buy a domain investigate if someone has owned in the past.  Use the website [Open Link Profiler] (http://openlinkprofiler.org/), make sure that not doggy websites link to your domain.
 
 Keyword Search
 Use the google autosuggest
