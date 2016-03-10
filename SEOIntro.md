@@ -16,20 +16,20 @@
 * Use [Ubersuggest] (https://ubersuggest.io/) and [Keyword Tool] (http://keywordtool.io/) to get more keyword ideas.
 * You can also use [Google Keyword Planner Tool] (https://adwords.google.es/keywordplanner); you might need to add a credit card to use it.
 * [Wordtracker] (http://www.wordtracker.com/) is the best paid for tool:
-** You can get a 7 days trial.
-** You can cut and paste all your keywords in the middle area of the tool.
-** On the left you will see a list of words and phrases that are similar to your keywords; use it to get more ideas
-** A KEI (Keyword Effectiveness Index) closer to 100 is the best; people are looking for those keywords but there is no much competition for them.
-** IAAT means In Ancher <a> And Title <title>
+  * You can get a 7 days trial.
+  * You can cut and paste all your keywords in the middle area of the tool.
+  * On the left you will see a list of words and phrases that are similar to your keywords; use it to get more ideas
+  * A KEI (Keyword Effectiveness Index) closer to 100 is the best; people are looking for those keywords but there is no much competition for them.
+  * IAAT means In Ancher <a> And Title <title>
 * If you find that people are looking for chocolate rice crispy cake do a page exactly for to cater for these searches
 * Make sure to do a search for your chosen words, e.g.  cannibal cupcake is a model so do not use this phrase if you are selling cupcakes as people doing this search will be mostly looking for information on the model.
 
 ## Organising your Keywords
 * In an Excel page have the following columns:
-** Your chosen keywords: a column with all your keywords
-** Web page 1 (the name of a page you are optimising): add here the keywords you will be using for this page. Copy and paste them here from the column Your chosen keywords.
-** Web page 2: as above
-** Web page 3: as above
+  * Your chosen keywords: a column with all your keywords
+  * Web page 1 (the name of a page you are optimising): add here the keywords you will be using for this page. Copy and paste them here from the column Your chosen keywords.
+  * Web page 2: as above
+  * Web page 3: as above
 * Now for each web page chose the best 2-3 keywords; each page focusing on different keywords.
 * Wait for 4-6 weeks to review the results after optimising a page.
 
