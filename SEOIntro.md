@@ -15,14 +15,14 @@
 * Use Twitter # hash tags; pretend you are writing a tweet and start the hastag with your chosen keyword. The autocomplete option will give you ideas for more keywords.
 * Use [Ubersuggest] (https://ubersuggest.io/) and [Keyword Tool] (http://keywordtool.io/) to get more keyword ideas.
 * You can also use [Google Keyword Planner Tool] (https://adwords.google.es/keywordplanner); you might need to add a credit card to use it.
+* If you find that people are looking for chocolate rice crispy cake do a page exactly for to cater for these searches
+* Make sure to do a search for your chosen words, e.g.  cannibal cupcake is a model so do not use this phrase if you are selling cupcakes as people doing this search will be mostly looking for information on the model.
 * [Wordtracker] (http://www.wordtracker.com/) is the best paid for tool:
   * You can get a 7 days trial.
   * You can cut and paste all your keywords in the middle area of the tool.
   * On the left you will see a list of words and phrases that are similar to your keywords; use it to get more ideas
   * A KEI (Keyword Effectiveness Index) closer to 100 is the best; people are looking for those keywords but there is no much competition for them.
   * IAAT means In Ancher <a> And Title <title>
-* If you find that people are looking for chocolate rice crispy cake do a page exactly for to cater for these searches
-* Make sure to do a search for your chosen words, e.g.  cannibal cupcake is a model so do not use this phrase if you are selling cupcakes as people doing this search will be mostly looking for information on the model.
 
 ## Organising your Keywords
 * In an Excel page have the following columns:
