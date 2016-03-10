@@ -39,6 +39,17 @@
 ## Page Titles
 * Make sure your page Titles contain the Keywords you have chosen for each web page
 
+## Back Links
+* Back links are links to your website from other sites 
+* You can get back links from Review Sites and Trade Associations (in the same sector where you operate)
+* Read the book 'SEO for Dummies' for idesa to get people to link to you
+* Use [Open Link Profiler] (http://openlinkprofiler.org/) to check out:
+ * Who is linking to you
+ * Who is linking to your competitiors; maybe they can also link to you
+ * LIS means Link Influence Score
+* Add your website on our [LinkedIn profile] (https://www.linkedin.com/)
+* Register with the [Redbridge Chamber of Commerce] (http://redbridgechamber.com/) for free and add your website on our profile
+
 ## General Tips
 * Check out [Google AdWords for Charities] (https://www.google.com.hk/intl/en/grants/)
 * Check out [General Assembly] (https://generalassemb.ly/) as their courses are very good
