@@ -6,17 +6,15 @@
 ## Speaker
 * Mike Loomey
 
-## 
+## Researching your keywords
+* Use [Google Trends] (https://www.google.es/trends/) to investigate whether people are interested in the product you intent to sell or the services you are going to offer.
 
-SEO
 
-By Mike Loomey
 
-Weebly
+## General Tips
+* Check out [Google AdWords for Charities] (https://www.google.com.hk/intl/en/grants/)
 
-Use Google Trends to investigate whether people are interested in the product you intent to sell or the services you intent to offer.
 
-Check out Google AdWords for charities
 
 Check out General Assembly courses as they are very good
 
