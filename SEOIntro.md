@@ -22,14 +22,7 @@
   * You can cut and paste all your keywords in the middle area of the tool.
   * On the left you will see a list of words and phrases that are similar to your keywords; use it to get more ideas
   * A KEI (Keyword Effectiveness Index) closer to 100 is the best; people are looking for those keywords but there is no much competition for them.
-  * IAAT means In Ancher <a> And Title <title>
-
-
-
-BREAK
-
-
-
+  * IAAT means In Ancher And Title tags
 
 ## Organising your Keywords
 * In an Excel page have the following columns:
