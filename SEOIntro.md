@@ -8,7 +8,7 @@
 
 ## Researching your Keywords
 * Use [Google Trends] (https://www.google.es/trends/) to investigate whether people are interested in the product you intent to sell or the services you are going to offer.
-* Start by optimising maybe three pages on your site targeting specific searches by potential customers.  E.g. Cupcake with rum cooking tips; people looking for this might explore your website further and buy your cupcakes. Do not optimise your home page as that page is usually very general.
+* Start by optimising maybe three pages on your site targeting specific searches by potential customers.  E.g. Cupcake with rum cooking tips; people looking for this might explore your website further and buy your cupcakes. Do not optimise your home page as that page is usually very general. Always optimise the very specific pages that contain the keywords you are interested in being found for.
 * Be aware that people usually do searches with the following components: a qualifying word, a trade or product and an area; e.g. Professional plumber Ilford.
 * Find a niche phrase keyword; ask your friends to brainstorm with you to create a big list.
 * Use the google autosuggest tool (the dropdown that appears when you do a Google search)
@@ -37,7 +37,7 @@
 * When you pubish a new website Google might show it up on the organic search straight away. Then you might notice that it drops down the listed pages. Continue optimising it and you will gain a better position with time.
 
 ## Page Titles
-* Make sure your page Titles contain the Keywords you have chosen for each web page
+* Make sure your page Titles, h1, contain the Keywords you have chosen for each web page
 
 ## Back Links
 * Back links are links to your website from other sites 
@@ -47,14 +47,27 @@
  * Who is linking to you
  * Who is linking to your competitiors; maybe they can also link to you
  * LIS means Link Influence Score
+ * Use the link disinfectant option and if there are any sites listed there; try to delete the link from those sites to your websites
 * Add your website on our [LinkedIn profile] (https://www.linkedin.com/)
 * Register with the [Redbridge Chamber of Commerce] (http://redbridgechamber.com/) for free and add your website on our profile
+* External links are best when the actual link containes your keywords; e.g. best cupcake seller in Ilford.
+
+## Page narrative and more
+* Mention your keywords on the page meta description and in the narrative of your page.
+* Use also synonims on the copy of the page, as people might be searching for those instead.
+* Meta keywords are not important for search results anymore.
+* Add at least 300 words to the narrative of your page.
+* Be careful with the keyword density on each page; your keywords should not be more than 5% of the words on the narrative of the page. Of a page of 300 words, mention our keywords no more than 7 times.
+* Add narrative to websites that have many images as Google is not so good at reading pictures, even if you add the title and alt tags to the images.
 
 ## General Tips
 * Check out [Google AdWords for Charities] (https://www.google.com.hk/intl/en/grants/)
 * Check out [General Assembly] (https://generalassemb.ly/) as their courses are very good
 * Use a browser with no cookies or empty your cache before you do a search in Google so it does not remember your history and offers you new search results
-* Before you buy a domain investigate if someone has owned in the past.  Use the website [Open Link Profiler] (http://openlinkprofiler.org/), make sure that not doggy websites link to your domain.
+* Before you buy a domain investigate if someone has owned in the past by using [Nominet] (http://www.nominet.uk/whois/).  Use the website [Open Link Profiler] (http://openlinkprofiler.org/), make sure that not doggy websites link to your domain.
 * In the google analytics tracker put your IP address so it does not record your own visits.
+* Keywords on oyur domain makes sense but it is not that important anymore. You could use a web re-direct (web let).
+* If you have a very established website, try to create one page with all that you have learnt today under a domain that contains your most important keywords and then redirect it to your website.
+
 
 
