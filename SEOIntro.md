@@ -12,7 +12,7 @@
 * Be aware that people usually do searches with the following components: a qualifying word, a trade or product and an area; e.g. Professional plumber Ilford.
 * Find a niche phrase keyword; ask your friends to brainstorm with you to create a big list.
 * Use the google autosuggest tool (the dropdown that appears when you do a Google search)
-* Use Twitter # hash tags; pretend you are writing a tweet and start the hastag with your chosen keyword. The autocomplete option will give you ideas for more keywords.
+* Use Twitter # hash tags; pretend you are writing a tweet and start the hash tag with your chosen keyword. The autocomplete option will give you ideas for more keywords.
 * Use [Ubersuggest] (https://ubersuggest.io/) and [Keyword Tool] (http://keywordtool.io/) to get more keyword ideas.
 * You can also use [Google Keyword Planner Tool] (https://adwords.google.es/keywordplanner); you might need to add a credit card to use it.
 * If you find that people are looking for chocolate rice crispy cake do a page exactly for to cater for these searches
@@ -42,19 +42,19 @@
 ## Back Links
 * Back links are links to your website from other sites 
 * You can get back links from Review Sites and Trade Associations (in the same sector where you operate)
-* Read the book 'SEO for Dummies' for idesa to get people to link to you
+* Read the book 'SEO for Dummies' for ideas to get people to link to you
 * Use [Open Link Profiler] (http://openlinkprofiler.org/) to check out:
  * Who is linking to you
- * Who is linking to your competitiors; maybe they can also link to you
+ * Who is linking to your competitors; maybe they can also link to you
  * LIS means Link Influence Score
  * Use the link disinfectant option and if there are any sites listed there; try to delete the link from those sites to your websites
 * Add your website on our [LinkedIn profile] (https://www.linkedin.com/)
 * Register with the [Redbridge Chamber of Commerce] (http://redbridgechamber.com/) for free and add your website on our profile
-* External links are best when the actual link containes your keywords; e.g. best cupcake seller in Ilford.
+* External links are best when the actual link contains your keywords; e.g. best cupcake seller in Ilford.
 
 ## Page narrative and more
 * Mention your keywords on the page meta description and in the narrative of your page.
-* Use also synonims on the copy of the page, as people might be searching for those instead.
+* Use also synonyms on the copy of the page, as people might be searching for those instead.
 * Meta keywords are not important for search results anymore.
 * Add at least 300 words to the narrative of your page.
 * Be careful with the keyword density on each page; your keywords should not be more than 5% of the words on the narrative of the page. Of a page of 300 words, mention our keywords no more than 7 times.
@@ -66,8 +66,5 @@
 * Use a browser with no cookies or empty your cache before you do a search in Google so it does not remember your history and offers you new search results
 * Before you buy a domain investigate if someone has owned in the past by using [Nominet] (http://www.nominet.uk/whois/).  Use the website [Open Link Profiler] (http://openlinkprofiler.org/), make sure that not doggy websites link to your domain.
 * In the google analytics tracker put your IP address so it does not record your own visits.
-* Keywords on oyur domain makes sense but it is not that important anymore. You could use a web re-direct (web let).
+* Keywords on your domain makes sense but it is not that important anymore. You could use a web re-direct (web let).
 * If you have a very established website, try to create one page with all that you have learnt today under a domain that contains your most important keywords and then redirect it to your website.
-
-
-
