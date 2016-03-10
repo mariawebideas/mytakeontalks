@@ -25,15 +25,13 @@
 * Make sure to do a search for your chosen words, e.g.  cannibal cupcake is a model so do not use this phrase if you are selling cupcakes as people doing this search will be mostly looking for information on the model.
 
 ## Organising your Keywords
-In an Excel page have the following columns
-Your chosen keywords: column with all your keywords
-Web page 1: the name of a page you are optimising, write here the keywords you will be using for this page. Copy and paste them here from the column Your chosen keywords.
-Web page 2: as above
-Web page 3: as above
-Now for each web page chose the best 2-3 keywords. For each page you are trying to get people searching for different things 
-
-Wait for 4-6 weeks to review thw results after optimising a page
-In the google analytics tracker put your IP address so it does not record your own visits
+* In an Excel page have the following columns:
+** Your chosen keywords: a column with all your keywords
+** Web page 1 (the name of a page you are optimising): add here the keywords you will be using for this page. Copy and paste them here from the column Your chosen keywords.
+** Web page 2: as above
+** Web page 3: as above
+* Now for each web page chose the best 2-3 keywords; each page focusing on different keywords.
+* Wait for 4-6 weeks to review the results after optimising a page.
 
 ## Google sandbox
 * for new websites google might show you up the organic rank very quickly 
@@ -43,5 +41,6 @@ In the google analytics tracker put your IP address so it does not record your o
 * Check out [General Assembly] (https://generalassemb.ly/) as their courses are very good
 * Use a browser with no cookies or empty your cache before you do a search in Google so it does not remember your history and offers you new search results
 * Before you buy a domain investigate if someone has owned in the past.  Use the website [Open Link Profiler] (http://openlinkprofiler.org/), make sure that not doggy websites link to your domain.
+* In the google analytics tracker put your IP address so it does not record your own visits.
 
 
